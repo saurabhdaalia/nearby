@@ -46,7 +46,6 @@ pathlib2==2.2.1
 pickleshare==0.7.4
 Pillow==4.0.0
 prompt-toolkit==1.0.14
-PyAudio==0.2.11
 PyAutoGUI==0.9.33
 pygeocoder==1.2.5
 Pygments==2.2.0

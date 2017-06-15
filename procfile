@@ -1,1 +1,1 @@
-web: gunicorn nearbyplace:app
+web: gunicorn app:app
